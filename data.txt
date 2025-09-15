@@ -1,0 +1,8 @@
+ID Name    Dept     Salary Age
+1  Alice   HR       40000  25
+2  Bob     IT       55000  30
+3  Charlie Finance  60000  28
+4  David   IT       45000  26
+5  Emma    HR       50000  29
+6  Frank   Finance  70000  35
+
